@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Support — Elsy</title>
+  <style>
+    :root { --cream:#F4EEDF; --paper:#FBF5E9; --ink:#1E1A14; --soft:#3C342A; --muted:#8A8170; --line:#E4DBCA; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--cream); color:var(--soft); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; line-height:1.65; }
+    .wrap { max-width:680px; margin:0 auto; padding:48px 24px 80px; }
+    h1 { font-family:Georgia,serif; color:var(--ink); font-size:36px; letter-spacing:-0.5px; margin:0 0 8px; }
+    h2 { font-family:Georgia,serif; color:var(--ink); font-size:20px; margin:30px 0 8px; }
+    a { color:var(--ink); }
+    .back { display:inline-block; margin-bottom:24px; color:var(--muted); text-decoration:none; font-size:14px; }
+    .mail { display:inline-block; margin-top:8px; background:var(--ink); color:var(--cream); text-decoration:none; padding:12px 22px; border-radius:999px; font-weight:600; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <a class="back" href="index.html">← Elsy</a>
+    <h1>Support</h1>
+    <p>Need help with Elsy, have a question about your subscription, or found a bug? We’re happy to help.</p>
+
+    <h2>Contact us</h2>
+    <p>Email us and we’ll get back to you as soon as we can.</p>
+    <a class="mail" href="mailto:gameswarfare@hotmail.com">gameswarfare@hotmail.com</a>
+
+    <h2>Subscriptions</h2>
+    <p>Elsy Plus is billed through your Apple ID. To view, change, or cancel your subscription, open <b>Settings → [your name] → Subscriptions</b> on your iPhone. You can also tap <b>Restore Purchases</b> on the Elsy Plus screen if a purchase isn’t showing.</p>
+
+    <h2>Deleting your account</h2>
+    <p>You can permanently delete your account and all your data in the app: <b>Profile → Delete account</b>.</p>
+
+    <h2>Legal</h2>
+    <p><a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Use</a></p>
+  </div>
+</body>
+</html>
